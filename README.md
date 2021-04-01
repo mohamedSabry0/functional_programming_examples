@@ -8,6 +8,8 @@ Examples used in Functional Programming by Eng. [Mohamed Hammad](https://www.lin
 ## Using Java:
 - [Ibrahim Abouelyatim](https://www.linkedin.com/in/ibrahim-abouelyatim-berkane-8aa54714b) : [repo Ex 1-5](https://github.com/Abouelyatim/Functional-Programming-101-Java)
 
+## Using Swift:
+- [Muhammed Mortgy](https://www.linkedin.com/in/mortgy): [repo sessions examples](https://github.com/Mortgy/Swift-FP)
 ## Using JavaScript:
 - [Ahmed Essam](https://www.linkedin.com/in/ahmedessammohamed): [live pen example 4](https://codepen.io/starahmad6161/pen/mdRPPda?editors=1010)
 ## Using Dart:
