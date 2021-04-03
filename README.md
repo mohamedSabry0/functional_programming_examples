@@ -4,7 +4,7 @@ Examples used in Functional Programming by Eng. [Mohamed Hammad](https://www.lin
 
 [Functional Programming Playlist](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
 ## Using C#:
-- [Elsayed Mustafa](https://github.com/ElsayedMustafaM/): [repo Ex 6](https://github.com/ElsayedMustafaM/FP)
+- [Elsayed Mustafa](https://www.linkedin.com/in/elsayed-mustafa-848502158/): [repo Ex 6](https://github.com/ElsayedMustafaM/FP)
 ## Using Java:
 - [Ibrahim Abouelyatim](https://www.linkedin.com/in/ibrahim-abouelyatim-berkane-8aa54714b) : [repo Ex 1-5](https://github.com/Abouelyatim/Functional-Programming-101-Java)
 
