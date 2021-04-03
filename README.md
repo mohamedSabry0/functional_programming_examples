@@ -11,7 +11,9 @@ Examples used in Functional Programming by Eng. [Mohamed Hammad](https://www.lin
 ## Using JavaScript:
 - [Ahmed Essam](https://www.linkedin.com/in/ahmedessammohamed): [live pen example 4](https://codepen.io/starahmad6161/pen/mdRPPda?editors=1010)
 ## Using Dart:
-- [Abdelazeem Kuratem](https://www.linkedin.com/in/abdelazeem-kuratem-41065a145): [example 6](https://github.com/Abdelazeem777/FP_Lesson_6_Example)
+- [Abdelazeem Kuratem](https://www.linkedin.com/in/abdelazeem-kuratem-41065a145):
+-   [example 6](https://github.com/Abdelazeem777/FP_Lesson_6_Example)
+-   [example 7](https://github.com/Abdelazeem777/FP_Lesson_7_Example_Dart)
 ## Using TypeScript:
 - [Mahmoud Zeyada](https://www.linkedin.com/in/mahmoud-zeyada-818049109): [repo ex 4, 6](https://github.com/mahmoudzeyada/Functionl_programming)
 ## Using Kotlin:
