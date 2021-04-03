@@ -20,6 +20,8 @@ Examples used in Functional Programming by Eng. [Mohamed Hammad](https://www.lin
 - [Mahmoud Zeyada](https://www.linkedin.com/in/mahmoud-zeyada-818049109): [repo ex 4, 6](https://github.com/mahmoudzeyada/Functionl_programming)
 ## Using Kotlin:
 - [Youssef Seddik](https://www.linkedin.com/in/youssef-seddik-316095142): [repo Ex 4-6](https://github.com/YussefSeddik/FunctionalProgrammig)
+
+- [Mohamed F. Aboalanain](https://www.linkedin.com/in/mohamedfathidevo/): [repo ex 3-7](https://github.com/mohamedfathidevo/Functional_Programming)
 ## Using Scala:
 - [Mohamed Adel Hassan](https://www.linkedin.com/in/mohamed-adel-hassan-312b8a167) : [repo Ex 1-3](https://github.com/MohamedAdelHsn/Scala-Functional-Programming)
 
