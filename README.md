@@ -7,6 +7,7 @@ Examples used in Functional Programming by Eng. [Mohamed Hammad](https://www.lin
 - [Elsayed Mustafa](https://www.linkedin.com/in/elsayed-mustafa-848502158/): [repo Ex 6](https://github.com/ElsayedMustafaM/FP)
 ## Using Java:
 - [Ibrahim Abouelyatim](https://www.linkedin.com/in/ibrahim-abouelyatim-berkane-8aa54714b) : [repo Ex 1-5](https://github.com/Abouelyatim/Functional-Programming-101-Java)
+- [Abdalla Soliman](https://www.linkedin.com/in/abdalla-soliman-6a9272153): [repo Ex 1-7](https://github.com/AbdallaSoliman/functionalprogramming)
 
 ## Using Swift:
 - [Muhammed Mortgy](https://www.linkedin.com/in/mortgy): [repo sessions examples](https://github.com/Mortgy/Swift-FP)
@@ -36,3 +37,4 @@ Examples used in Functional Programming by Eng. [Mohamed Hammad](https://www.lin
 ## Using Python:
 - [by Abdelrhman Adel](https://www.linkedin.com/in/abdelrhman-adel-9a5719139/) : [repo Ex 1-4](https://github.com/abdelrhman-adel-ahmed/Functional-Programming)
 - [Ramadan Ibrahem](https://www.linkedin.com/in/ramadanibrahem/): [repo Ex 2, 7](https://github.com/RamadanIbrahem98/functional-programming)
+- [Muhammad Motawe](https://www.linkedin.com/in/muhammadmotawe): [repo Ex 7](https://github.com/MuhammadMotawe/FunctionalProgramming)
