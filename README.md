@@ -28,12 +28,12 @@ Examples used in Functional Programming by Eng. [Mohamed Hammad](https://www.lin
 
 
 ## Using PHP (pure and laravel):
-- [Hisham Elsayad](https://www.linkedin.com/in/hisham-elsayad-542049172) : [example 2](https://github.com/hsmfawaz/functional-programming-php)
+- [Hisham Elsayad](https://www.linkedin.com/in/hisham-elsayad-542049172) : [example 1, 3, 4 and 7](https://github.com/hsmfawaz/functional-programming-php)
 
 ## Using C++:
 - [by Abdelrhman Adel](https://www.linkedin.com/in/abdelrhman-adel-9a5719139/) : [repo Ex 1-4](https://github.com/abdelrhman-adel-ahmed/Functional-Programming)
 ### C++20, with a LINQ-like container
-- [michael rizkalla](https://www.linkedin.com/in/michaelrizkalla) : [example 4](https://github.com/MichaelRizkalla/LearningFP/tree/main/Cpp-FP/CalculateDiscountsOnOrders)
+- [michael rizkalla](https://www.linkedin.com/in/michaelrizkalla) : [example 4, 5](https://github.com/MichaelRizkalla/LearningFP/tree/main/Cpp-FP/CalculateDiscountsOnOrders)
 ## Using Python:
 - [by Abdelrhman Adel](https://www.linkedin.com/in/abdelrhman-adel-9a5719139/) : [repo Ex 1-7](https://github.com/abdelrhman-adel-ahmed/Functional-Programming)
 - [Ramadan Ibrahem](https://www.linkedin.com/in/ramadanibrahem/): [repo Ex 2, 7](https://github.com/RamadanIbrahem98/functional-programming)
