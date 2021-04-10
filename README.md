@@ -18,20 +18,22 @@ Examples used in Functional Programming by Eng. [Mohamed Hammad](https://www.lin
   - [example 6](https://github.com/Abdelazeem777/FP_Lesson_6_Example)
   - [example 7](https://github.com/Abdelazeem777/FP_Lesson_7_Example_Dart)
 ## Using TypeScript:
-- [Mahmoud Zeyada](https://www.linkedin.com/in/mahmoud-zeyada-818049109): [repo ex 4, 6](https://github.com/mahmoudzeyada/Functionl_programming)
+- [Mahmoud Zeyada](https://www.linkedin.com/in/mahmoud-zeyada-818049109): [repo ex 4, 6, 7](https://github.com/mahmoudzeyada/Functionl_programming)
 ## Using Kotlin:
-- [Youssef Seddik](https://www.linkedin.com/in/youssef-seddik-316095142): [repo Ex 4-6](https://github.com/YussefSeddik/FunctionalProgrammig)
+- [Youssef Seddik](https://www.linkedin.com/in/youssef-seddik-316095142): [repo Ex 4-7](https://github.com/YussefSeddik/FunctionalProgrammig)
 
 - [Mohamed F. Aboalanain](https://www.linkedin.com/in/mohamedfathidevo/): [repo ex 3-7](https://github.com/mohamedfathidevo/Functional_Programming)
+
+- [Andrew Safwat Samuel](https://www.linkedin.com/in/andrew-safwat-samuel): [gist Ex 4](https://gist.github.com/andrewsafwatsamuel/d549d265c6f705c469cde68d9b5670c1)
 ## Using Scala:
-- [Mohamed Adel Hassan](https://www.linkedin.com/in/mohamed-adel-hassan-312b8a167) : [repo Ex 1-3](https://github.com/MohamedAdelHsn/Scala-Functional-Programming)
+- [Mohamed Adel Hassan](https://www.linkedin.com/in/mohamed-adel-hassan-312b8a167) : [repo Ex 1-3, 5, 7](https://github.com/MohamedAdelHsn/Scala-Functional-Programming)
 
 
 ## Using PHP (pure and laravel):
 - [Hisham Elsayad](https://www.linkedin.com/in/hisham-elsayad-542049172) : [example 1, 3, 4 and 7](https://github.com/hsmfawaz/functional-programming-php)
 
 ## Using C++:
-- [by Abdelrhman Adel](https://www.linkedin.com/in/abdelrhman-adel-9a5719139/) : [repo Ex 1-4](https://github.com/abdelrhman-adel-ahmed/Functional-Programming)
+- [by Abdelrhman Adel](https://www.linkedin.com/in/abdelrhman-adel-9a5719139/) : [repo Ex 2, 3](https://github.com/abdelrhman-adel-ahmed/Functional-Programming)
 ### C++20, with a LINQ-like container
 - [michael rizkalla](https://www.linkedin.com/in/michaelrizkalla) : [example 4, 5](https://github.com/MichaelRizkalla/LearningFP/tree/main/Cpp-FP/CalculateDiscountsOnOrders)
 ## Using Python:
